@@ -1,4 +1,6 @@
-# MonitorRefreshRate_TrayIcon
+![Monitor Refresh Rate Hz Tray Icon](https://github.com/bartoruiz/MonitorRefreshRate_TrayIcon/MonitorRefreshRate_TrayIcon.png?raw=true)
+
+# Monitor Refresh Rate Hz Tray Icon
 Small program to display the Current Monitor Refresh Rate besides the clock.
 It checks every 5 secs and only updates the tray icon if no full screen program is running.
 
