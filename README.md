@@ -1,6 +1,6 @@
 # MonitorRefreshRate_TrayIcon
 Small program to display the Current Monitor Refresh Rate besides the clock.
-It checks every 5 secs and only updates the tray icon if no program is running at full screen.
+It checks every 5 secs and only updates the tray icon if no full screen program is running.
 
 Language
 ===============================
