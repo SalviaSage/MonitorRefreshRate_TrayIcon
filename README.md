@@ -14,6 +14,7 @@ MonitorRefreshRate_TrayIcon.cpp
 resource.h
 MonitorRefreshRate_TrayIcon.rc
 
+
 Use Visual Studio to build this (preferred method):
 ===========================================================
      1. Open Windows Explorer and navigate to the directory.
