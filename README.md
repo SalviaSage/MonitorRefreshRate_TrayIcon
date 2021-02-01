@@ -1,4 +1,4 @@
-![Monitor Refresh Rate Hz Tray Icon](https://github.com/bartoruiz/MonitorRefreshRate_TrayIcon/MonitorRefreshRate_TrayIcon.png?raw=true)
+![Monitor Refresh Rate Hz Tray Icon](https://github.com/bartoruiz/MonitorRefreshRate_TrayIcon/blob/main/MonitorRefreshRate_TrayIcon.png?raw=true)
 
 # Monitor Refresh Rate Hz Tray Icon
 Small program to display the Current Monitor Refresh Rate besides the clock.
