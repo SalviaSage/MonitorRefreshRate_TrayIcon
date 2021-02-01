@@ -8,12 +8,11 @@ C++
 
 Files:
 ===============================
-MonitorRefreshRate_TrayIcon.sln
-MonitorRefreshRate_TrayIcon.vcxproj
-MonitorRefreshRate_TrayIcon.cpp
-resource.h
-MonitorRefreshRate_TrayIcon.rc
-
+     1. MonitorRefreshRate_TrayIcon.sln
+     2. MonitorRefreshRate_TrayIcon.vcxproj
+     3. MonitorRefreshRate_TrayIcon.cpp
+     4. resource.h
+     5. MonitorRefreshRate_TrayIcon.rc
 
 Use Visual Studio to build this (preferred method):
 ===========================================================
